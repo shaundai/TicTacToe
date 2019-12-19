@@ -1,0 +1,10 @@
+.square {
+    width: 40px;
+}
+
+.board-row {
+    height: 40px;
+    width: 120px;
+    padding: 0;
+    margin: 0;
+}
